@@ -1,0 +1,5 @@
+/* Hiển thị ô input cho tải lên file */
+input[type='file'] {
+  display: block;
+  margin: 10px 0;
+}
