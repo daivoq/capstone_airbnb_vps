@@ -15,4 +15,4 @@ RUN npm run build
 EXPOSE 8080
 
 # node index.js => khởi chạy server
-CMD ["nmp","run", "start:pord"]
+CMD ["npm","run", "start:pord"]
